@@ -1,12 +1,7 @@
 # Glosario-web-
 <!DOCTYPE html>
 <html>
-
-<head>
-   <title> Glosario en tabla </title>
    <a name="arriba"></a>
-</head>
-
 <body>
       <h2> Glosario en tabla</h2>
       </h2>
