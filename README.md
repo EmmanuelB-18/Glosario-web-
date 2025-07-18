@@ -5,7 +5,6 @@
 <body>
       <h2> Glosario en tabla</h2>
       </h2>
-   
    <table border="10">
       <tr>
          <td colspan="5">
@@ -400,5 +399,4 @@
       <link rel="stylesheet" href="Estilo glosario.css">
    </table>
 </body>
-
 </html>
